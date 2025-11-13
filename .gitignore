@@ -1,0 +1,33 @@
+# python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# vitural env
+.venv/
+env/
+venv/
+
+# translator key etc
+translator_key/
+*.json
+*.key
+*.pem
+
+# log file
+*.log
+*.tmp
+*.swp
+*.swo
+
+# vscode_ide_file
+.vscode/
+.idea/
+
+# macos_file
+.DS_Store
+
+# nodes
+node_modules/
+dist/
+.build/
